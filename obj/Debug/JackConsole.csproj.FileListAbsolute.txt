@@ -1,0 +1,6 @@
+D:\KC\Documents\GitHub\JackConsole\bin\Debug\JackConsole.exe.config
+D:\KC\Documents\GitHub\JackConsole\obj\Debug\JackConsole.csprojResolveAssemblyReference.cache
+D:\KC\Documents\GitHub\JackConsole\bin\Debug\JackConsole.exe
+D:\KC\Documents\GitHub\JackConsole\bin\Debug\JackConsole.pdb
+D:\KC\Documents\GitHub\JackConsole\obj\Debug\JackConsole.exe
+D:\KC\Documents\GitHub\JackConsole\obj\Debug\JackConsole.pdb
